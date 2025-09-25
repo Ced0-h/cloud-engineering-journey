@@ -9,7 +9,7 @@ This repo documents my hands-on progress as I deploy apps, automate workflows, a
 ## 📅 Progress Logs
 
 - [Day 5: VPC, EC2, and Python App Deployment](Day5.md)
-
+- [Using CFT to manage, monitor and automate resources](nano.md)
 ---
 
 ## 🧠 What I'm Learning
